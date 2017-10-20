@@ -1,3 +1,3 @@
 (function main(Hook) {
-	console.dir(Hook);
+	require('console').console.dir(Hook);
 })();
